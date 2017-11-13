@@ -1,2 +1,2 @@
-# utils
-Different types of utilities modules made for easier development process and for better projects performance
+# Libraries
+Different types of code libraries proved to be useful when extracted for the sinle place of supervision
