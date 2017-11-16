@@ -1,0 +1,29 @@
+{
+  "name": "@itorepo/libs",
+  "version": "1.0.1",
+  "description": "Different types of code libraries proved to be useful when extracted for the sinle place of supervision",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itorepo/libs.git"
+  },
+  "keywords": [
+    "ito",
+    "lib",
+    "utils",
+    "tools",
+    "sandbox"
+  ],
+  "author": "ITO Global, LLC <github@ito-global.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/itorepo/libs/issues"
+  },
+  "homepage": "https://github.com/itorepo/libs#readme"
+}
